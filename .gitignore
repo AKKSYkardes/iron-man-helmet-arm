@@ -1,0 +1,18 @@
+# Satın alınan veya yeniden dağıtım hakkı bulunmayan modeller
+assets/licensed-models/
+
+# Yerel üretim çıktıları
+build/
+prints/
+slicer-output/
+
+# Cura / PrusaSlicer ve geçici dosyalar
+*.gcode
+*.gco
+*.tmp
+*.bak
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
